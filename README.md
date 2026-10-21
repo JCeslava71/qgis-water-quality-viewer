@@ -2,7 +2,7 @@
 QGIS plugin that loads a CSV of water-quality measurements along a channel and displays them georeferenced.
 # Water Quality Viewer (QGIS plugin)
 
-Short description of what the plugin does and why.
+A QGIS plugin that loads a CSV file containing water quality measurements taken along a channel, along with georeferenced samples, allowing for the observation of variable behavior and their variation along the channel.
 
 ## Features
 - Loads a CSV with dissolved oxygen measurements along a channel
@@ -18,11 +18,11 @@ Short description of what the plugin does and why.
 
 ## CSV format
 Columns required: (list the real column names here)
-An example file is included in sample_data.csv
+An example file is included in DatosBase.csv
 
 ## Credits
 Developed by Juan Carlos Eslava González as a complement to a phytoremediation
 thesis project (co-author: Ana Yerushalayim Acosta Cruz).
 
 ## Requirements
-QGIS version tested: (your version)
+QGIS version tested: 3.34.5
