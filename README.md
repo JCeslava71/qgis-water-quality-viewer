@@ -9,8 +9,8 @@ Short description of what the plugin does and why.
 - Georeferences the points and displays them in QGIS
 
 ## Screenshots
-![Example](screenshots/example.png)
-
+![Example](screenshots/plugin.png)
+![Example](screenshots/plugin.png)
 ## Installation
 1. Download this repository as ZIP (Code > Download ZIP)
 2. In QGIS: Plugins > Manage and Install Plugins > Install from ZIP
