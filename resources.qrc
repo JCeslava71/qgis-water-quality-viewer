@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/Visor_fpjd" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
