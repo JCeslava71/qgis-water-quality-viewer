@@ -10,7 +10,8 @@ Short description of what the plugin does and why.
 
 ## Screenshots
 ![Example](screenshots/plugin.png)
-![Example](screenshots/plugin.png)
+![Example](screenshots/run.png)
+![Example](screenshots/run.png)
 ## Installation
 1. Download this repository as ZIP (Code > Download ZIP)
 2. In QGIS: Plugins > Manage and Install Plugins > Install from ZIP
